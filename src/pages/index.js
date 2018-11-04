@@ -6,8 +6,18 @@ import Image from '../components/image'
 
 const IndexPage = () => (
   <Layout>
-    <h1>Coming Soon</h1>
-    <p>zzz...</p>
+  <div
+    style={{
+      margin: '0 auto',
+      height: 800,
+    }}
+  >
+    <Image style={{
+    }}/>
+    </div>
+    <h4 style={{
+      opacity: 0.4,
+}}>Toronto • Coming Soon</h4>
   </Layout>
 )
 
