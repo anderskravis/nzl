@@ -9,7 +9,7 @@ const IndexPage = () => (
   <div
     style={{
       margin: '0 auto',
-      height: 800,
+      marginBottom: 20,
     }}
   >
     <Image style={{
